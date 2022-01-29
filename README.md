@@ -18,6 +18,17 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+```
+Developed By:Popuri Siva Naga Nithin
+Reference No:21003942
+with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
+      
+    # read content from first file
+    for line in firstfile:
+               
+             # append content to second file
+             secondfile.write(line)
+```
 
 ### OUTPUT:
 
