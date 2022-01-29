@@ -6,16 +6,22 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+Start.
 
-### Step 2: 
+### Step 2:
+Open the first file in read mode by an appropriate method.
  
 ### Step 3: 
+Open the second file in write mode by an appropriate method.
 
-### Step 4:  
+### Step 4: 
+Loop until variable 'i' in the first file.so variable i propogates all over the content.
 
 ### Step 5: 
+Write the value of 'i' in the file by following method.secondfileName.write(i)
 
 ### Step 6: 
+stop
 
 ## PROGRAM:
 ```
@@ -31,6 +37,10 @@ with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
 ```
 
 ### OUTPUT:
+![Github Logo](copy.png)
+![Github Logo](copy1.png)
+![Github Logo](copy2.png)
+
 
 
 
